@@ -10,7 +10,7 @@ Hello! I'm **Shivam Juneja**, a passionate Business Analyst with expertise in da
 
 Here are the tools and technologies I use to craft data-driven solutions:
 
-### Programming & Analytics:
+#### Programming & Analytics:
 ![Static Badge](https://img.shields.io/badge/R-white?style=for-the-badge&logo=R&logoColor=%23276DC3)
 ![Static Badge](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=Python&logoColor=%233776AB)
 ![Static Badge](https://img.shields.io/badge/PyTorch-white?style=for-the-badge&logo=PyTorch&logoColor=%23EE4C2C)
@@ -20,7 +20,7 @@ Here are the tools and technologies I use to craft data-driven solutions:
 ![Static Badge](https://img.shields.io/badge/TensorFlow-white?style=for-the-badge&logo=tensorflow&logoColor=%23FF6F00)
 ![Static Badge](https://img.shields.io/badge/SPSS-white?style=for-the-badge&logo=IBM&logoColor=%231572B6)
 
-### Database Technologies:
+#### Database Technologies:
 ![Static Badge](https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql&logoColor=%234479A1)
 ![Static Badge](https://img.shields.io/badge/Microsoft%20SQL%20Server-white?style=for-the-badge&logo=microsoftsqlserver&logoColor=%23CC2927)
 ![Static Badge](https://img.shields.io/badge/Azure%20SQL-white?style=for-the-badge&logo=microsoftazure&logoColor=%23007F8C)
@@ -28,7 +28,7 @@ Here are the tools and technologies I use to craft data-driven solutions:
 ![Static Badge](https://img.shields.io/badge/ETL-white?style=for-the-badge&logo=apacheairflow&logoColor=%23017E87)
 ![Static Badge](https://img.shields.io/badge/Google%20BigQuery-white?style=for-the-badge&logo=googlebigquery&logoColor=%234E8B77)
 
-### Business Intelligence & Others:
+#### Business Intelligence & Others:
 ![Static Badge](https://img.shields.io/badge/Tableau-white?style=for-the-badge&logo=tableau&logoColor=%23E97627)
 ![Static Badge](https://img.shields.io/badge/Power%20BI-white?style=for-the-badge&logo=powerbi&logoColor=%23F2C811)
 ![Static Badge](https://img.shields.io/badge/Microsoft%20Excel-white?style=for-the-badge&logo=microsoftexcel&logoColor=%23217346)
