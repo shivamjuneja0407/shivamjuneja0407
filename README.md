@@ -46,9 +46,8 @@ Here are the tools and technologies I use to craft data-driven solutions:
 
 ---
 
-#### Skillset:
-![Static Badge](https://img.shields.io/badge/Data%20Analytics-black?style=for-the-badge&color=000000)
-![Static Badge](https://img.shields.io/badge/Data%20Visualization-black?style=for-the-badge&color=000000)
+![Static Badge](https://img.shields.io/badge/Data%20Analytics-black?style=for-the-badge&color=123456)
+![Static Badge](https://img.shields.io/badge/Data%20Visualization-black?style=for-the-badge&color=123456)
 ![Static Badge](https://img.shields.io/badge/Data%20Mining-black?style=for-the-badge&color=000000)
 ![Static Badge](https://img.shields.io/badge/Data%20Modeling-black?style=for-the-badge&color=000000)
 ![Static Badge](https://img.shields.io/badge/Data%20Warehousing-black?style=for-the-badge&color=000000)
