@@ -1,4 +1,4 @@
-# Shivam Juneja - Data Innovator
+## Shivam Juneja - Data Innovator
 
 🚀 **Your Data-Driven Problem Solver**
 
@@ -6,7 +6,16 @@ Hello! I'm **Shivam Juneja**, a passionate Business Analyst with expertise in da
 
 ---
 
-## 💻🛠️ My Technical Toolbox
+### 🔗 Connect with Me
+
+Feel free to reach out or connect on LinkedIn!
+
+- [LinkedIn](https://www.linkedin.com/in/shivamjuneja/)
+- [Email](mailto:shivamjuneja0799@gmail.com)
+
+---
+
+### 💻🛠️ My Technical Toolbox
 
 Here are the tools and technologies I use to craft data-driven solutions:
 
@@ -37,38 +46,31 @@ Here are the tools and technologies I use to craft data-driven solutions:
 
 ---
 
-## 🌟 Notable Projects
+### 🌟 Notable Projects
 
-### 1. **AI-powered Maintenance Scheduling**
+#### 1. **AI-powered Maintenance Scheduling**
 Developed an AI-driven solution to automate maintenance schedules at **Massachusetts Bay Transportation Authority (MBTA)**, reducing downtime by **40%**.
 
 [View Project](#)
 
-### 2. **Merchant Analytics Dashboard**
+#### 2. **Merchant Analytics Dashboard**
 Designed dynamic dashboards for **American Express** to track merchant performance, resulting in a **25%** increase in merchant acquisition.
 
 [View Project](#)
 
-### 3. **City Safety Incident Tracker**
+#### 3. **City Safety Incident Tracker**
 Created an interactive **Power BI** dashboard for the **City of Boston**, improving incident response times by **15%**.
 
 [View Project](#)
 
 ---
 
-## 🏅 Certifications
+### 🏅 Certifications
 
 - **BCG GenAI Certification**: Designed a financial chatbot using Generative AI to assist with customer queries on financial documents.
 - **Advanced Python for Data Science**: Completed an advanced course in Python, focusing on data analysis, machine learning, and data visualizations.
 
 ---
-
-## 🔗 Connect with Me
-
-Feel free to reach out or connect on LinkedIn!
-
-- [LinkedIn](https://www.linkedin.com/in/shivamjuneja/)
-- [Email](mailto:shivamjuneja0799@gmail.com)
 
 ---
 
